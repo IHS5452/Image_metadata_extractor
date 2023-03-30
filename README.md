@@ -2,5 +2,7 @@
 
 <h2>This website is an ongoing prtfolio project to extract metadata from an image uploaded to the website<h2>
 
-Language written in: Java<br>
-Format: Website, WAR
+<p>Language written in: Java</p><br>
+<p>Format: Website, WAR</p><br>
+<p>Libraries used: metadata-extractor (com.drewnoakes)</p><br>
+
